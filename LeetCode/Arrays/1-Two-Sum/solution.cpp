@@ -8,6 +8,7 @@ public:
                     return {i, j};
                 }
             }
+            
         }
         return {}; // No solution found
     }
